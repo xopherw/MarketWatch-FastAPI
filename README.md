@@ -1,4 +1,4 @@
-# MarketWatch-FastAPI
+# MarketWatch-FastAPI (DEPRECIATED)
 
 MarketWatch API under FastAPI framework.
 
